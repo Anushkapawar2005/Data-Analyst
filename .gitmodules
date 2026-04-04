@@ -4,3 +4,6 @@
 [submodule "Python_learning"]
 	path = Python_learning
 	url = https://github.com/Anushkapawar2005/Python-learning.git
+[submodule "NUMPY"]
+	path = NUMPY
+	url = https://github.com/Anushkapawar2005/NUMPY.git
