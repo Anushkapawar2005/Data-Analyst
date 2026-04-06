@@ -19,3 +19,5 @@ print(df)
 # remove multiple columns
 df.drop(columns=["Performance Score","Age"],inplace=True)
 print(df)
+
+# inplace=True modifies the original DataFrame instead of returning a new DataFrame.
