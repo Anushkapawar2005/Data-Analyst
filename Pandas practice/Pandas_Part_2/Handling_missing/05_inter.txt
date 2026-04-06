@@ -1,0 +1,15 @@
+interpolation - Interpolation is a technique used to fill missing values by estimating them using surrounding existing data.
+Interpolation is the process of estimating missing values within a dataset based on nearby known values.
+only numerical value
+
+10
+20
+NaN  30
+40
+50
+
+1- preserved data integrity
+2- smooth trends
+3- Avoid data loss
+
+interpolate()
