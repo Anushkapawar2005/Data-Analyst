@@ -1,5 +1,5 @@
 #df["Column_name"].mean()
-
+# sum(),max(),min(),count(), std()
 import pandas as pd
 data = {
   "Name":['Arun','Varun','Karun'],
