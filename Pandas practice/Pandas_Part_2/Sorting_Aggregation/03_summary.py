@@ -7,3 +7,6 @@ data = {
   "Salary":[10000,20000,30000]
 }
 df= pd.DataFrame(data)
+
+avg_salary = df['Salary'].mean()
+print(avg_salary)
