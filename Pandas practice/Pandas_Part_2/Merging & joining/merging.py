@@ -16,7 +16,7 @@ df_orders = pd.DataFrame({
 })
 
 #merge
-df_mearge = pd.merge(df_customers,df_orders,on='CustomerID',how='inner')
+df_mearge = pd.merge(df_customers,df_orders,on='CustomerID',how='cross')
 print("Inner join")
 
 print(df_mearge)
