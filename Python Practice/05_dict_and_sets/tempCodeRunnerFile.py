@@ -1,0 +1,1 @@
+print(data.pop('age'))  # 20
