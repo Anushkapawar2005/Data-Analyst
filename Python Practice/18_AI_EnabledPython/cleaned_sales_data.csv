@@ -1,0 +1,26 @@
+Order_ID,Order_Date,Customer_Name,City,State,Product_Category,Product_Name,Quantity,Unit_Price,Discount,Payment_Mode,Sales_Channel,Total_Sales,Order_Value_Category
+ORD1001,01-01-2024,Ajay Sharma,Surat,Maharashtra,Electronics,Mobile Phone,1,18000,500,UPI,Online,17500,High
+ORD1002,02-01-2024,Smita Patel,Patna,Maharashtra,Electronics,Laptop,1,55000,2000,Credit Card,Offline,53000,High
+ORD1003,03-01-2024,Amit Singh,Kolkata,Delhi,Electronics,Tablet,2,22000,1000,UPI,Online,43000,High
+ORD1004,04-01-2024,Karan Yadav,Chennai,Tamil Nadu,Electronics,Laptop,1,58000,1500,Debit Card,Offline,56500,High
+ORD1005,05-01-2024,Priya Singh,Pune,Maharashtra,Accessories,Earphones,3,1500,0,UPI,Online,4500,Low
+ORD1006,06-01-2024,Rahul Jain,Mumbai,Maharashtra,Electronics,Mobile Phone,1,19000,500,Credit Card,Online,18500,High
+ORD1007,07-01-2024,Anita Desai,Delhi,Delhi,Electronics,Tablet,1,23000,1000,UPI,Offline,22000,High
+ORD1008,08-01-2024,Manoj Yadav,Chennai,Tamil Nadu,Electronics,Laptop,1,60000,2500,Debit Card,Online,57500,High
+ORD1009,09-01-2024,Rohit Sharma,Mumbai,Maharashtra,Electronics,Mobile Phone,2,18000,1000,UPI,Online,35000,High
+ORD1010,10-01-2024,Neha Kulkarni,Pune,Maharashtra,Accessories,Smart Watch,1,12000,500,Credit Card,Offline,11500,High
+ORD1011,11-01-2024,Sneha Patil,Pune,Maharashtra,Electronics,Mobile Phone,1,55000,2000,Credit Card,Offline,53000,High
+ORD1012,12-01-2024,Amit Verma,Delhi,Delhi,Electronics,Laptop,1,22000,1000,UPI,Online,21000,High
+ORD1013,13-01-2024,Karan Gupta,Chennai,Tamil Nadu,Electronics,Tablet,1,58000,1500,Debit Card,Offline,56500,High
+ORD1014,14-01-2024,Priya Singh,Pune,Maharashtra,Accessories,Laptop,2,1500,0,UPI,Online,3000,Low
+ORD1015,15-01-2024,Rahul Jain,Mumbai,Maharashtra,Electronics,Earphones,1,19000,500,Credit Card,Online,18500,High
+ORD1016,16-01-2024,Anita Desai,Delhi,Delhi,Electronics,Mobile Phone,1,23000,1000,UPI,Offline,22000,High
+ORD1017,17-01-2024,Manoj Yadav,Chennai,Tamil Nadu,Electronics,Tablet,1,60000,2500,Debit Card,Online,57500,High
+ORD1018,18-01-2024,Rohit Sharma,Mumbai,Maharashtra,Electronics,Laptop,1,18000,500,UPI,Online,17500,High
+ORD1019,19-01-2024,Neha Kulkarni,Patna,Maharashtra,Accessories,Mobile Phone,1,12000,500,Credit Card,Offline,11500,High
+ORD1020,20-01-2024,Amit Verma,Kolkata,Delhi,Electronics,Smart Watch,2,22000,2000,UPI,Online,42000,High
+ORD1021,21-01-2024,Karan Gupta,Chennai,Tamil Nadu,Electronics,Mobile Phone,1,58000,1500,Debit Card,Offline,56500,High
+ORD1022,22-01-2024,Priya Singh,Pune,Maharashtra,Accessories,Laptop,4,1500,0,UPI,Online,6000,Medium
+ORD1023,23-01-2024,Rahul Jain,Mumbai,Maharashtra,Electronics,Tablet,2,19000,1000,Credit Card,Online,37000,High
+ORD1024,24-01-2024,Anita Desai,Delhi,Delhi,Electronics,Laptop,1,23000,1000,UPI,Offline,22000,High
+ORD1025,25-01-2024,Manoj Yadav,Surat,Tamil Nadu,Electronics,Earphones,1,60000,2500,Debit Card,Online,57500,High
